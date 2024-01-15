@@ -1,0 +1,65 @@
+{
+    "Pokemons": 
+    {
+        "Pokemon 1":{
+        "nom":"Groudon",
+        "id": "#0383",
+        "pes": "950,0 kg" ,
+        "altura": "3,5m" ,
+        "estadístiques":[
+            {
+                "velocitat":"2",
+                "fortalesa":"5",
+                "precisió":"5",
+                "resistència":"5"
+            }
+        ],
+        "moviments":[
+        {
+            "nom":"Poder pasado",
+            "descripció":"Causa daño y tiene probabilidad del 10% de aumentar las estadisticas",
+            "potencia":"60",
+            "contacte":"No"
+
+        }
+        ],
+        "imantge_url":"https://www.wikidex.net/wiki/Archivo:Groudon.png",
+        "evolucions":{
+            "id_evolució":"null",
+            "nivell_evolcució":"null"
+        }
+        },
+        "Pokemon 2":{
+            "nom":"Rayquaza",
+            "id": "#0384",
+            "pes": "206,5 kg" ,
+            "altura": "7,0m" ,
+            "estadístiques":[
+                {
+                    "velocitat":"5",
+                    "fortalesa":"5",
+                    "precisió":"3",
+                    "resistència":"5"
+                }
+            ],
+            "moviments":[
+            {
+                "nom":"Ráfagas escamas",
+                "descripció":"Golpea al objetivo de 2 a5 vecces en un mismo turno",
+                "potencia":"25",
+                "contacte":"No"
+    
+            }
+            ],
+            "imantge_url":"https://www.wikidex.net/wiki/Archivo:Rayquaza.png",
+            "evolucions":{
+                "id_evolució":"null",
+                "nivell_evolcució":"null"
+            }
+            }
+
+    }
+
+
+}
+
